@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "KeyboardLayout",
+	"category" : "DJW-Cassido Tests-DJW-Cassido 2020-5-4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DvorakKeyboardLayout",
+	"type" : "normal"
+}

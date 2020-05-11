@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassido-2020-05-11",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"largeNumber",
+		"smallNumber"
+	],
+	"name" : "GoldenRatioCheck",
+	"type" : "normal"
+}

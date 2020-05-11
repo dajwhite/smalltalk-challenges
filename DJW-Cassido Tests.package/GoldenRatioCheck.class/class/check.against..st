@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 check: aNumber against: anotherNumber
 	"comment stating purpose of class-side message"
 
@@ -7,7 +7,7 @@ check: aNumber against: anotherNumber
 	| largerNum smallerNum |
 	largerNum := aNumber max: anotherNumber.
 	smallerNum := aNumber min: anotherNumber.
-	^ super new initialize
+	^ self new 
 		largeNumber: largerNum;
 		smallNumber: smallerNum;
 		isGoldenRatio

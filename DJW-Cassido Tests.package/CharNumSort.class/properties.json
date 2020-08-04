@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassido-20200803",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"wordArray",
+		"distinctLetterDict"
+	],
+	"name" : "CharNumSort",
+	"type" : "normal"
+}

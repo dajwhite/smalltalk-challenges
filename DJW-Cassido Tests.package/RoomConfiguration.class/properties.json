@@ -6,13 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"length",
-		"width",
-		"height",
-		"numberOfDoors",
-		"numberOfWindows",
-		"roomConfig"
+		"doorArea",
+		"windowArea"
 	],
-	"name" : "Room",
+	"name" : "RoomConfiguration",
 	"type" : "normal"
 }

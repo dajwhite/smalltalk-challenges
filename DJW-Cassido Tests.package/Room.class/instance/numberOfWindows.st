@@ -1,0 +1,3 @@
+accessing
+numberOfWindows
+	^ numberOfWindows

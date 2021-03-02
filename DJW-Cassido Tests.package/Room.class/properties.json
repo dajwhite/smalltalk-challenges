@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassido-2021-02-28",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"length",
+		"width",
+		"height"
+	],
+	"name" : "Room",
+	"type" : "normal"
+}

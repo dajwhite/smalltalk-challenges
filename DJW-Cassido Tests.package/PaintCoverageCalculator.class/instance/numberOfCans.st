@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 numberOfCans
 	"comment stating purpose of instance-side message"
 	"scope: class-variables  &  instance-variables"	

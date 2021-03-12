@@ -1,16 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "Exception",
 	"category" : "DJW-Cassido Tests-DJW-Cassido-20210308",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"leftSpace",
-		"middleSpace",
-		"rightSpace",
-		"rowId"
-	],
-	"name" : "TicTacToeRow",
+	"instvars" : [ ],
+	"name" : "WinnerDetectedException",
 	"type" : "normal"
 }

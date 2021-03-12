@@ -6,6 +6,7 @@ initialize
 
 	super initialize.
 	self
-		topRow: TicTacToeRow new;
-		middleRow: TicTacToeRow new;
-		bottomRow: TicTacToeRow new
+		topRow: (TicTacToeRow as: #top);
+		middleRow: (TicTacToeRow as: #middle);
+		bottomRow: (TicTacToeRow as: #bottom);
+		setupChangeNotification

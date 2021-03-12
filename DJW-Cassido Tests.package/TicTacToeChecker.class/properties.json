@@ -6,11 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"leftSpace",
-		"middleSpace",
-		"rightSpace",
-		"rowId"
+		"board",
+		"winningMoveCheckers"
 	],
-	"name" : "TicTacToeRow",
+	"name" : "TicTacToeChecker",
 	"type" : "normal"
 }

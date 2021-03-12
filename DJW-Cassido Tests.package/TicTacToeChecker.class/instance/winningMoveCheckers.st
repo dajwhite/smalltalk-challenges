@@ -1,0 +1,3 @@
+accessing
+winningMoveCheckers
+	^ winningMoveCheckers

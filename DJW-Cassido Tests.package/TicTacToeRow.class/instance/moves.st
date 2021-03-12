@@ -1,6 +1,6 @@
 as yet unclassified
-numberOfX
+moves
 	"comment stating purpose of instance-side message"
 	"scope: class-variables  &  instance-variables"	
 			
-	^(self allMoves select: [ :aLetter | aLetter = $X ]) size
+	^OrderedCollection with: self leftSpace with: self middleSpace with: self rightSpace.

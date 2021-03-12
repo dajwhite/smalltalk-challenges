@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassido-20210308",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"leftSpace",
+		"middleSpace",
+		"rightSpace"
+	],
+	"name" : "TicTacToeRow",
+	"type" : "normal"
+}

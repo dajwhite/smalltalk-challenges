@@ -1,6 +1,6 @@
 as yet unclassified
-numberOfY
+numberOfO
 	"comment stating purpose of instance-side message"
 	"scope: class-variables  &  instance-variables"	
 			
-	^0
+	^(self allMoves select: [ :aLetter | aLetter = $O ]) size

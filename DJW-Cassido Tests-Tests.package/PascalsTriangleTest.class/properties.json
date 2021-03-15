@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "DJW-Cassido Tests-Tests-DJW-Cassido-20210315",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PascalsTriangleTest",
+	"type" : "normal"
+}

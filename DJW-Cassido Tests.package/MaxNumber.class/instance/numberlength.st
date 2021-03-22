@@ -1,0 +1,3 @@
+accessing
+numberlength
+	^ numberlength

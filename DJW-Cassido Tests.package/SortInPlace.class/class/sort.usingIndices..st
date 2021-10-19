@@ -6,5 +6,8 @@ sort: itemCollection usingIndices: indexCollection
 	"scope: class-variables  &  class-instance-variables"
 
 	itemCollection size = indexCollection size ifFalse: [ 
-		Exception new raise ].
-	self new itemCollection: itemCollection; indexCollection: indexCollection; sort.
+		SizeMismatchException new signal ].
+	self new
+		itemCollection: itemCollection;
+		indexCollection: indexCollection;
+		sort

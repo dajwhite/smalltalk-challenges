@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Exception",
+	"category" : "DJW-Cassido Tests-DJW-Cassido-20211018",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SizeMismatchException",
+	"type" : "normal"
+}

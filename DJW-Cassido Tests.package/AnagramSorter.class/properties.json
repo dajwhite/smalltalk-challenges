@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassido-20211121",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"strings"
+	],
+	"name" : "AnagramSorter",
+	"type" : "normal"
+}

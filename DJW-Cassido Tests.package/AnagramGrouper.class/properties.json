@@ -8,6 +8,6 @@
 	"instvars" : [
 		"strings"
 	],
-	"name" : "AnagramSorter",
+	"name" : "AnagramGrouper",
 	"type" : "normal"
 }

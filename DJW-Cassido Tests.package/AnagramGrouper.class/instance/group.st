@@ -1,4 +1,4 @@
-accessing
+actions
 group
 
 	"comment stating purpose of instance-side method"
@@ -21,4 +21,4 @@ group
 					add: aString;
 					yourself ]
 			initial: [ OrderedCollection with: aString ] ].
-	^ hashDict values
+	^ hashDict values sorted: [ :left :right | left size < right size ]

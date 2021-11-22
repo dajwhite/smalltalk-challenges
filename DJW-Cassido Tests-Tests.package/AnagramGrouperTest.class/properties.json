@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "AnagramSorterTest",
+	"name" : "AnagramGrouperTest",
 	"type" : "normal"
 }

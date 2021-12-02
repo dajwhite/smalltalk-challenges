@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "dajwhite 12/2/2021 11:35",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassido-20211129",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"digitToLetterMapping"
+	],
+	"instvars" : [
+		"digits"
+	],
+	"name" : "PhoneLetter",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassido-20220318",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numberColl",
+		"lengthOfSubColl"
+	],
+	"name" : "LargestSubarraySum",
+	"type" : "normal"
+}

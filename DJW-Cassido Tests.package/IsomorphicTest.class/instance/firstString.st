@@ -1,0 +1,4 @@
+accessing
+firstString
+
+	^ firstString

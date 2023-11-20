@@ -4,4 +4,4 @@ meetsCriteria: aNumber
 
 	"scope: class-variables  &  instance-variables"
 
-	^ true
+	^ aNumber odd 

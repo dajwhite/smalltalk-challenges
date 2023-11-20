@@ -1,9 +1,1 @@
-SystemOrganization addCategory: #'DJW-Cassido Tests-Tests'!
-SystemOrganization addCategory: #'DJW-Cassido Tests-Tests-DJW-Cassido-2021-02-28'!
-SystemOrganization addCategory: #'DJW-Cassido Tests-Tests-DJW-Cassido-20210308'!
-SystemOrganization addCategory: #'DJW-Cassido Tests-Tests-DJW-Cassido-20210315'!
-SystemOrganization addCategory: #'DJW-Cassido Tests-Tests-DJW-Cassido-20211010'!
-SystemOrganization addCategory: #'DJW-Cassido Tests-Tests-DJW-Cassido-20211018'!
-SystemOrganization addCategory: #'DJW-Cassido Tests-Tests-DJW-Cassido-20211108'!
-SystemOrganization addCategory: #'DJW-Cassido Tests-Tests-DJW-Cassido-20211121'!
-SystemOrganization addCategory: #'DJW-Cassido Tests-Tests-DJW-Cassido-20211129'!
+self packageOrganizer ensurePackage: #'DJW-Cassido Tests-Tests' withTags: #('DJW-Cassido-2021-02-28' 'DJW-Cassido-20210308' 'DJW-Cassido-20210315' 'DJW-Cassido-20211010' 'DJW-Cassido-20211018' 'DJW-Cassido-20211108' 'DJW-Cassido-20211121' 'DJW-Cassido-20211129')!

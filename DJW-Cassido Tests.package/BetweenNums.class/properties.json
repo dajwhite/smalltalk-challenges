@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassidoo-20231120",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numA",
+		"numB",
+		"numType"
+	],
+	"name" : "BetweenNums",
+	"type" : "normal"
+}

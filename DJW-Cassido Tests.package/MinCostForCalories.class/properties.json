@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassido-20231127",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"prices",
+		"calories",
+		"dailyGoal"
+	],
+	"name" : "MinCostForCalories",
+	"type" : "normal"
+}

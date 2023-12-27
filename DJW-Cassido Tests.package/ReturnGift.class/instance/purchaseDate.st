@@ -1,0 +1,4 @@
+accessing
+purchaseDate
+
+	^ purchaseDate

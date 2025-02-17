@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DJW-Cassido Tests-DJW-Cassidoo-20250217",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attackStrengthValues",
+		"totalShieldStrength"
+	],
+	"name" : "FindShieldBreak",
+	"type" : "normal"
+}
